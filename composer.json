@@ -1,5 +1,5 @@
 {
-    "name": "miroshnichenkoYaroslav/laravel-algolia",
+    "name": "miroshnichenko-yaroslav/laravel-algolia",
     "description": "An Algolia bridge for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "algolia", "search", "api"],
